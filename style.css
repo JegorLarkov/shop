@@ -1,0 +1,133 @@
+@font-face {
+    font-family:'DM Sans';
+    src: url();
+}
+
+.givt {
+    display: inline-flex;
+    width: 1440px;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+    background: white;
+}
+
+.logo {
+    width: 93px;
+    height: 47px;
+    left: 79px;
+    top: 23px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36.4444px;
+    line-height: 47px;
+    padding-left: 79px;
+    padding-right: 50px;
+    padding-top: 33px;
+}
+
+.text-gift {
+    margin-right: 31px;
+    display: inline-flex;
+}
+
+.text1 {
+    position: absolute;
+    width: 122px;
+    height: 29px;
+    left: 265px;
+    top: 31px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 29px;
+    color: rgba(0, 0, 0, 0.9);
+}
+
+.text2 {
+    position: absolute;
+    width: 127px;
+    height: 29px;
+    left: 420px;
+    top: 31px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 29px;
+    color: rgba(0, 0, 0, 0.9);
+}
+
+.text3 {
+    position: absolute;
+    width: 158px;
+    height: 29px;
+    left: 578px;
+    top: 31px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 29px;
+    color: rgba(0, 0, 0, 0.9);
+}
+
+.number {
+    position: absolute;
+    width: 165px;
+    height: 23px;
+    left: 971px;
+    top: 34px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+    padding-top: 10px;
+}
+
+.icons {
+    position: absolute;
+    width: 184px;
+    height: 48px;
+    left: 1176px;
+    top: 22px;
+    padding-top: 27px;
+}
+
+.reclam {
+    margin-top: 30px;
+    position: absolute;
+    width: 1281px;
+    height: 600px;
+    left: 79px;
+    top: 90px;
+    background: #F5F5F5;
+    border-radius: 10px;
+}
+
+.image {
+    margin-top: -500px;
+    margin-left: 500px;
+}
+
+.reclam-text {
+    position: absolute;
+    width: 627px;
+    height: 159px;
+    left: 141px;
+    top: 231px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 41px;
+    line-height: 53px;
+    color: #000000;
+}
+
+.shade {
+    margin-left: 500px;
+}
